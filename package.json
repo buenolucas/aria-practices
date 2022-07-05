@@ -49,7 +49,7 @@
     "geckodriver": "^3.0.1",
     "glob": "^7.2.0",
     "htmlhint": "^1.1.4",
-    "htmlparser2": "^7.2.0",
+    "htmlparser2": "^8.0.1",
     "husky": "^7.0.4",
     "lint-staged": "^12.3.4",
     "prettier": "^2.7.1",
